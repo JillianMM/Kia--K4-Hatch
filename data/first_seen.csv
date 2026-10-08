@@ -1,0 +1,5 @@
+vin,opt_code,dealer,city,distance_mi,first_seen,last_seen,status
+3KPFU5DE4TE377864,/17,Archer Kia,Houston,80.2,2026-08-30,2026-10-08,active
+3KPFU5DE7TE383562,/15,Parkway Family Kia,Kingwood,75.1,2026-10-08,2026-10-08,active
+3KPFU5DE7TE351050,/17,Cowboy Kia of Conroe,Conroe,56,2026-08-30,2026-08-30,gone_2026-10-08
+3KPFU5DE7TE375168,/17,Dennis Eakin Kia,Killeen,87,2026-08-30,2026-08-30,gone_2026-10-08
